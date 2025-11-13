@@ -1,5 +1,4 @@
-# AIML Project G2 - CSIOT Sem 5  
-### Batch of 2025  
+# AIML Project G2 - CSIOT Sem 5   
 
 ---
 
